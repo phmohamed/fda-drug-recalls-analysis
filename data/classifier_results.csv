@@ -1,0 +1,3 @@
+model,auc_2023_plus
+Logistic on words,0.936
+Category base rate only,0.764
